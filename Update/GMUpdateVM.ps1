@@ -1024,6 +1024,3 @@ Clear-Host
 ## End UA
 
 Write-Host "Stap 1: In Azure alle update (interne) RDP Downloaden"
-Write-Host "Stap 2: Deze update RDP plaatsen in het bureaublad van NoCore"
-Write-Host "Stap 3: NoCore informeren dat de update images gereed staan"
-Write-Host "Stap 4: Na afmelding van NoCore > Sysprep_Capture_NewSIGimage.ps1"
