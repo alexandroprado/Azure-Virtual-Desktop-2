@@ -1066,4 +1066,3 @@ Update-AzWvdSessionHost -HostPoolName $Hostpoolname -ResourceGroupName $Resource
 
 Clear-Host
 Write-warning "Alle AVD's zijn gedeployed"
-Write-warning "Draai iUpdate.exe in Flex en MVP voor database update. Draai de Drain modes weer op!"
